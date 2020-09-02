@@ -4,14 +4,12 @@
  * @Author       : Jingsheng Lyu
  * @Date         : 2020-08-29 12:16:47
  * @LastEditors  : Jingsheng Lyu
- * @LastEditTime : 2020-09-01 22:50:04
+ * @LastEditTime : 2020-09-02 22:48:21
  * @FilePath     : /undefined/home/jingsheng/ControlAlgorithm_using_ROSandMatlab/README.md
  * @Github       : https://github.com/jingshenglyu
  * @Web          : https://jingshenglyu.github.io/
  * @E-Mail       : jingshenglyu@gmail.com
 -->
-
-
 # ControlAlgorithm_using_ROSandMatlab
 How to develop the control algorithm using ROS and Matlab
 
